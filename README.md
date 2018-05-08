@@ -13,12 +13,6 @@ For Udacity fewd-fend-challenge
 Primary task is to implement the makeGrid() fucntion, that dynamically creates a grid that the user can interact with.
 
 
-### Link to finished project
-
-
-
-
-### Screenshot of Finished Game
 
 
 
